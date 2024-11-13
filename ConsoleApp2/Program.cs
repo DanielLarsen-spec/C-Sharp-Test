@@ -26,4 +26,4 @@ var x = 3;
 number2 = Convert.ToInt32(text2);
 Console.WriteLine(number2);
 
-Console.WriteLine("Hello Norway");
+Console.WriteLine("Hello World");
